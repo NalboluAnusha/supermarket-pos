@@ -1,0 +1,3 @@
+Feature: Product Search
+
+The cashier can search products using the product name.
